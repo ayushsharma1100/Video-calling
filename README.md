@@ -1,8 +1,6 @@
 # Video-calling
 A video calling webapp using SOCKET.IO React and Nodejs.The app made by React ,Socket.IO and Node js through which the use can have video call with another user.The app have functionality of more than one user in the app.The button are there to pickup and hang up the call.
-Screenshots
 
-App Screenshot
 Deployment
 
 Firstly deploy the backend on the Heroku ,with port 5000
